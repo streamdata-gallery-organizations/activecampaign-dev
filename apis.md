@@ -1,13 +1,14 @@
 ---
 name: ActiveCampaign Dev
 x-slug: activecampaign-dev
-description: ""
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/activecampaign_blue.png
+description: Integrated email marketing, marketing automation, and small business
+  CRM. Save time while growing your business with sales automation.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9065-activecampaign-dev.jpg
 x-kinRank: "7"
-x-alexaRank: ""
+x-alexaRank: "21595"
 tags: ActiveCampaign Dev
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/activecampaign-dev/master/_listings/activecampaign-dev/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -18,6 +19,14 @@ x-common:
   url: http://www.activecampaign.com/blog/
 - type: x-blog-rss
   url: http://feeds.activecampaign.com/activecampaign
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/active-campaign
+- type: x-email
+  url: info@activecampaign.com
+- type: x-email
+  url: dmca@activecampaign.com
+- type: x-twitter
+  url: https://twitter.com/ActiveCampaign
 - type: x-website
   url: http://www.activecampaign.com/
 include: []
